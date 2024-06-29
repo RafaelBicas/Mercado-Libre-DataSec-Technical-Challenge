@@ -10,7 +10,6 @@ import requests
 genre_desired = "Drama"
 ##############################
 
-
 url = "https://jsonmock.hackerrank.com/api/tvseries"
 page_parameter = "?page="
 
@@ -48,9 +47,6 @@ def bestInGenre(genre):
     best_show = best_show_name_list[0]
 
     return best_show
-
-
-
 
 if __name__ == '__main__':
     number_of_arguments = len(sys.argv)
