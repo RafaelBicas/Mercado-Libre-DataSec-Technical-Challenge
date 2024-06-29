@@ -23,7 +23,11 @@
 
   For each question it was created a file inside one folder. The folder has the question' name to identify it. 
   
-  The files inside the folder have the name 'main.py' for the python scripts and 'SCRIPT_SQL.sql' for the SQL script.
+  The files inside the folder have the name 'main.py' for the python scripts and in the SQL case it was included the SQL query used to test it on the database and a sql file to create the database and insert all the data to test it.
 
 ## Document instructions provided by Mercado Libre
+
+- Create a separate file for each question.
+- Commit all the solutions to a single public GitHub repository.
+- Solve all the questions using python 3. Specify in the comments the exact version of python you used
 
