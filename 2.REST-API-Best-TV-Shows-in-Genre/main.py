@@ -53,7 +53,18 @@ def bestInGenre(genre):
 
 
 if __name__ == '__main__':
+    number_of_arguments = len(sys.argv)
+    able_to_execute = False
 
-    best_show = bestInGenre(genre_desired)
-    print(best_show["name"])
+    if(number_of_arguments > 2): #if there is more than 2 arguments (one is the name of the script and the second is the parameter with the genre type) it will not execute
+        print("Invalid argument, please try again!")
+    elif(number_of_arguments == 2):
+        genre_desired = sys.argv[1]
+        able_to_execute = True
+    else:
+        able_to_execute = True
+
+    if able_to_execute:
+        best_show = bestInGenre(genre_desired)
+        print(best_show["name"])
 
