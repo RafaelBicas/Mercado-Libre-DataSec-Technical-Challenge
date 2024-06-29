@@ -36,7 +36,7 @@ board = [
 
 To execute the file, it can be used an IDE as Pycharm and use the command to run it or by the command prompt:
 
-go to the \<absolute path>\1.Minesweeper-Number-of-Neighbouring-Mines\
+go to the \<absolute path>\1.Minesweeper-Number-of-Neighbouring-Mines\ folder
 
 ````commandline
 python main.py
