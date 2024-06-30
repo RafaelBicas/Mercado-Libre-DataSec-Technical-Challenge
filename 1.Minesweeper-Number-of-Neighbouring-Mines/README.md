@@ -45,3 +45,7 @@ or
 ````commandline
 python3 main.py
 ````
+
+## Pre-requirements for the execution
+
+To run this script, Python is necessary on the version described above.
