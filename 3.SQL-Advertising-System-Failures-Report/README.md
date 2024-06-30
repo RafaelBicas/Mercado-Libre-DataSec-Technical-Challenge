@@ -22,34 +22,3 @@ This project was implemented and tested with Python 3.12.4 in a Windows 10 machi
 
 ##  Step-by-step to execute it
 
-There are 2 ways of executing it. One of them is editing directly into the variable ````genre_desired```` at the beginning of the file or on the time of execution as a parameter.
-
-### Editing the variable
-````
-###########INPUT##############
-genre_desired = "Drama"
-##############################
-````
-go to the \<absolute path>\2.REST-API-Best-TV-Shows-in-Genre\
-
-execute:
-
-````commandline
-python main.py
-````
-or
-````commandline
-python3 main.py
-````
-
-### Passing as a parameter
-
-Pass as a parameter a string which is related to the genre that will be searched.
-
-````commandline
-python .\main.py genre
-````
-or
-````commandline
-python3 .\main.py genre
-````
