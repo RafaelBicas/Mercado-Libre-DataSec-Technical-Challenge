@@ -22,3 +22,25 @@ This project was implemented and tested with Python 3.12.4 in a Windows 10 machi
 
 ##  Step-by-step to execute it
 
+To execute it, it is necessary to change variables with the informations of your own environment and for the Output desired.
+
+The variable can be found at the beginning of the ````main.py```` file.
+
+### Explaining variables
+
+````commandline
+#########INPUT#########
+username = 'admin'
+password = 'admin'
+host = 'localhost'
+database = 'mydb'
+output = 'PROMPT' # Choose how the output will be shown: EXCEL or PROMPT
+#######################
+````
+
+- ````username````: User to connect into the database
+- ````password````: Password used to connect into the database
+- ````host```` : Hostname which the database is installed
+- ````database````: The database that will be used in this script
+- ````output````: how the output must be shown. It can be "EXCEL" or "PROMPT". The EXCEL will generate an excel file while the PROMPT returns the results tabulated
+
