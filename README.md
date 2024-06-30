@@ -23,7 +23,7 @@
 
   For each question it was created a file inside one folder. The folder has the question' name to identify it. 
   
-  The files inside the folder have the name 'main.py' for the python scripts and in the SQL case it was included the SQL query used to test it on the database and a sql file to create the database and insert all the data to test it.
+  The files inside the folder have the file 'main.py' for the python scripts, one README.md in every folder with instructions to execute it and in the SQL case it was included the SQL query used to test it on the database and a sql file to create the database and insert all the data to test it.
 
 ## Document instructions provided by Mercado Libre
 
