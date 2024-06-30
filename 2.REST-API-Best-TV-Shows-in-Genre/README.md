@@ -56,3 +56,8 @@ python3 .\main.py genre
 <p align="center">
   <img src="https://github.com/RafaelBicas/Mercado-Libre-DataSec-Technical-Challenge/tree/main/2.REST-API-Best-TV-Shows-in-Genre/Pictures/use_case.png" alt="Using the script to return the result related to 'mystery'" width="500">
 </p>
+
+## Pre-requirements for the execution
+
+To run this script, Python is necessary on the version described above. Also, the following Module will be needed:
+- requests (command to install it ````pip install requests````)
