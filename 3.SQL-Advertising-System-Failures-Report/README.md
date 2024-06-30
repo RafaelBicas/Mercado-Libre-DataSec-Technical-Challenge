@@ -57,3 +57,10 @@ or
 ````commandline
 python3 main.py
 ````
+
+## Pre-requirements for the execution
+
+To run this script, Python is necessary on the version described above. Also, the following Module will be needed:
+- mysql-connector-python (command to install it ````pip install mysql-connector-python````)
+- tabulate (command to install it ````pip install tabulate````)
+- pandas openpyxl (command to install it ````pip install pandas openpyxl````)
