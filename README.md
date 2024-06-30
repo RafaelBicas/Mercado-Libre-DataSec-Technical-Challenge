@@ -19,6 +19,9 @@
    - REST API: Best TV Shows in Genre
    - SQL: Advertising System Failures Report
 
+## Python Version used
+This project was implemented and tested with Python 3.12.4 in a Windows 10 machine.
+
 ## Division
 
   For each question it was created a file inside one folder. The folder has the question' name to identify it. 
