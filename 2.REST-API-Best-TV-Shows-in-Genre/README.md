@@ -44,13 +44,15 @@ python3 main.py
 Pass as a parameter a string which is related to the genre that will be searched.
 
 ````commandline
-python .\main.py \[genre]
+python .\main.py genre
 ````
 or
 ````commandline
-python3 .\main.py \[genre]
+python3 .\main.py genre
 ````
 
  <h2> Use example 📸 </h2>
-  
+
+<p align="center">
   <img src="https://github.com/RafaelBicas/Mercado-Libre-DataSec-Technical-Challenge/tree/main/2.REST-API-Best-TV-Shows-in-Genre/Pictures/use_case.png" alt="Using the script to return the result related to 'mystery'" width="500">
+</p>
