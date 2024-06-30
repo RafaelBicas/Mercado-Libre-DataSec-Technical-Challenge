@@ -44,3 +44,16 @@ output = 'PROMPT' # Choose how the output will be shown: EXCEL or PROMPT
 - ````database````: The database that will be used in this script
 - ````output````: how the output must be shown. It can be "EXCEL" or "PROMPT". The EXCEL will generate an excel file while the PROMPT returns the results tabulated
 
+### Execution
+
+Go to the \<absolute path>\3.SQL-Advertising-System-Failures-Report\
+
+Execute:
+
+````commandline
+python main.py
+````
+or
+````commandline
+python3 main.py
+````

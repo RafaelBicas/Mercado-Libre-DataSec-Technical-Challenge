@@ -8,8 +8,8 @@ from mysql.connector import Error
 from tabulate import tabulate
 
 #########INPUT#########
-username = 'admin'
-password = 'admin'
+username = 'ellie'
+password = 'E!!ie40028922'
 host = 'localhost'
 database = 'mydb'
 output = 'PROMPT' # Choose how the output will be shown: EXCEL or PROMPT
